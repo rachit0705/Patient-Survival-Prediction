@@ -13,8 +13,8 @@ Survived_1_year == 0, implies that the patient did not survive after 1 year of t
 Survived_1_year == 1, implies that the patient survived after 1 year of treatment
 
 ## Data Description:
-ID_Patient_Care_Situation: Care situation of a patient during treatment.
-Diagnosed_Condition: The diagnosed condition of the patient.
+* ID_Patient_Care_Situation: Care situation of a patient during treatment
+* Diagnosed_Condition: The diagnosed condition of the patient.
 ID_Patient: Patient identifier number.
 Treatment_with_drugs: Class of drugs used during treatment
 Survived_1_year: If the patient survived after one year (0 means did not survive; 1 means survived)
